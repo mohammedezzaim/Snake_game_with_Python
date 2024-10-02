@@ -23,5 +23,5 @@ Copier le code:
 git clone https://github.com/MOHAMMED-EZZAIM/Build-a-Snake-game-with-Python-
 ```
 ### image 
-<img src="https://github.com/MOHAMMED-EZZAIM/Build-a-Snake-game-with-Python-/blob/main/images/snake_game_screenshot.png">
+<img src="./images//snake_game_screenshot.png">
 
