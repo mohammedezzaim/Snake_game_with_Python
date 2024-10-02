@@ -22,14 +22,6 @@ Copier le code:
 ```
 git clone https://github.com/MOHAMMED-EZZAIM/Build-a-Snake-game-with-Python-
 ```
+### image 
+<img src="https://github.com/MOHAMMED-EZZAIM/Build-a-Snake-game-with-Python-/blob/main/images/snake_game_screenshot.png">
 
-Run the Gam
-
-Navigate into the project directory and run the snake_game.py script:
-
-bash
-Copier le code
-python snake_game.py
-Gameplay
-Use the arrow keys to control the snake.
-Press 's' to take a screenshot of the current game state.
