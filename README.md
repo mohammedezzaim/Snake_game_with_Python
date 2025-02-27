@@ -23,5 +23,5 @@ Copier le code:
 git clone https://github.com/MohammedEzzaim/Snake_game_with_Python
 ```
 ### image 
-<img src="./images//snake_game_screenshot.png">
+<img src="./images//hero.png">
 
